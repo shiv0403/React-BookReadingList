@@ -1,0 +1,23 @@
+.listItem {
+  background: #6d3d6d;
+  border-radius: 4px;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.listItem:hover {
+  opacity: 0.9;
+  text-decoration: line-through;
+}
+
+.bookdetails_title {
+  font-weight: bold;
+  color: #ffff;
+  font-size: 1.2rem;
+}
+
+.bookdetails_author {
+  font-size: 0.9rem;
+  color: #dddd;
+}

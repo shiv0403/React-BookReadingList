@@ -1,0 +1,14 @@
+.bookList {
+  margin: 20px;
+}
+
+.bookList > ul {
+  padding: 10px;
+  list-style-type: none;
+}
+
+.empty {
+  margin: 20px;
+  text-align: center;
+  font-size: 1.3rem;
+}
